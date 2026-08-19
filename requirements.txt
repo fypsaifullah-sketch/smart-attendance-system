@@ -9,6 +9,5 @@ bcrypt
 fpdf2
 Pillow
 opencv-python-headless
-dlib-bin
-face_recognition
+face-recognition
 face-recognition-models
