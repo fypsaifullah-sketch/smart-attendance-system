@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+attendance.db
+face_encodings.pkl
+student_images/
+reports/
+logs/
+.DS_Store
