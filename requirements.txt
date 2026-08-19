@@ -1,3 +1,14 @@
-libgl1
-cmake
-build-essential
+streamlit
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+plotly
+bcrypt
+fpdf2
+Pillow
+opencv-python-headless
+dlib-bin
+face_recognition
+face-recognition-models
